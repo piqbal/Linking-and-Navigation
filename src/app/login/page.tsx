@@ -5,6 +5,7 @@ import {useRouter} from "next/navigation"
 
 const Login=()=>{
     const router=useRouter()
+
     return(
         <div>
         <h1>About Login</h1>
