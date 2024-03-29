@@ -2,9 +2,9 @@
 import Link from "next/link"
 import {useRouter} from "next/navigation"
 
-
 const contacts=()=>{
-    const router=useRouter()
+    
+const router=useRouter()
     return(
         <div>
         <h1>About Contacts</h1>
